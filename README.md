@@ -1,4 +1,4 @@
-#kaggle-Intel-Image-classification-fastai
+# kaggle-Intel-Image-classification-fastai
 
 This is the fastai implementation of Intel Image Dataset available at [kaggle](https://www.kaggle.com/puneet6060/intel-image-classification)
 
